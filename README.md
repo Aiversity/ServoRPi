@@ -5,13 +5,19 @@ Hi, I am Shafin, the manager of AIVersity. This is my library of controlling a s
 Github(Linux): 
 
    Step 1 :First Download The Library By Command Line:
+   
+           git clone https://github.com/Aiversity/ServoRPi/                    
            
    ![](https://github.com/Aiversity/assets/blob/main/GIF%20Servo%20Lib.gif)
-
-           git clone https://github.com/Aiversity/ServoRPi/                    
+   
                        
-   Step 2 :Then Go In The 
-               
+   Step 2 :Then Go In The Folder And  Setup The Library:
+   
+           cd <Your File Location>
+           sudo python3 setup.py install
+           
+   ![](https://github.com/Aiversity/assets/blob/main/GIF%20Servo%20Lib(2).gif)
+             
                
           
         
