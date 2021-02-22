@@ -3,8 +3,9 @@ Hi, I am Shafin, the manager of AIVersity. This is my library of controlling a s
 **Install**
 
 Github(Linux): 
+
    Step 1 :First Download The Library By Command Line:
-           ![](GIF Servo Lib.gif)
+            
 
            git clone https://github.com/Aiversity/ServoRPi/                    
                        
